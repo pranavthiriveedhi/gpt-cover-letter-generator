@@ -1,0 +1,7 @@
+Dear Hiring Manager,
+
+I am excited to apply for the position of Data Engineer - GPS Technology Organization at EY. As a recent graduate from Virginia Tech with a Bachelor of Science in Computational Modeling and Data Analytics, I have gained extensive experience in database administration and troubleshooting. I am confident that my skills and experience make me a strong candidate for this position.
+
+Throughout my career, I have demonstrated a comprehensive understanding of data and database technologies and am well-versed in troubleshooting underlying issues. I have an excellent knowledge of business processes, products, and services, within agreed areas of expertise and have provided input and advice to key stakeholders. I have reviewed new product support documentation and design release packages for solutions and have monitored the effectiveness of installations and ensured that appropriate recommendations for change are made.
+
+In my previous position as a Systems Engineering Intern at Raytheon Technologies, I streamlined and automated advanced business processes in multiple workflows using Power Automate. I also developed smart business-centered applications in PowerApps using CDS, SQL, Flow, Microsoft Excel, and Microsoft SharePoint. I created data visualization graphics, translating large, complex data sets into comprehensive visual representations using Python, Microsoft Excel, and Microsoft Power BI (DAX

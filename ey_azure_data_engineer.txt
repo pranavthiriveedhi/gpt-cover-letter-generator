@@ -1,0 +1,123 @@
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+From strategy to execution, the Government & Public Sector (GPS) practice of Ernst & Young LLP provides a full range of consulting and audit services to help our Federal, State, Local and Education clients implement new ideas to help achieve their mission outcomes. We deliver real change and measurable results through our diverse, high-performing teams, quality work at the highest professional standards, operational know-how from across our global organization, and creative and bold ideas that drive innovation. We enable our government clients to achieve their mission of protecting the nation and serving the people; increasing public safety; improving healthcare for our military, veterans and citizens; delivering essential public services; and helping those in need. EY is ready to help our government build a better working world. 
+
+Our GPS Technology Organization is a structure within the US GPS practice that implements and maintains a new operate and technology model designed specifically to support U.S. defense and Government engagements.
+
+The opportunity
+
+This is a remote opportunity that can be performed within Continental United States.
+
+You will be a key member of a dedicated operations team with responsibility of assuring overall health of data and database environments, making recommendations on performance improvements, job improvements, development of playbooks and implementation of Azure functions.
+
+You will monitor applications and environments in Azure Gov for exceptions, review their performance, manage demand planning and capacity utilization. Your focus will be on stability and application uptime with an emphasis on quick incident resolution and automated solutions that prevent future outages. You will support promotion cycles of solutions, testing and executing version upgrades and patches.
+
+You will be expected to keep up with industry developments and standards, ensuring innovative approaches to operate and support data environments.
+
+You will support the delivery of processes to extract, transform and load data from disparate sources into a form that is consumable by analytics processes, for projects with moderate complexity, using strong technical capabilities.
+
+You will help design, develop and produce data models of relatively high complexity, leveraging a sound understanding of data modelling standards to ensure high quality.
+
+You will collaborate with other departments across the business to help define and deliver business value, and may interface and communicate with program teams, management and stakeholders as required to deliver small to medium-sized projects
+
+Your Key Responsibilities
+
+Lead delivery of on-going maintenance and management of pre-production, production environments, setting timelines and monitoring activities in alignment with business requirements
+Contribute to the development of implementation plans for dealing with more complex requests for change
+Review new product support documentation and design release packages for solutions
+Monitor effectiveness of installations and ensure that appropriate recommendations for change are made
+Oversee preliminary reviews for new environments and the adaption of findings to existing environments, including capacity and performance management recommendations,
+Develop internal control standards and contribute to the development of procedures
+Lead the production of high-quality data engineering deliverables, helping to ensure project timelines are met, and providing informal mentoring / training to junior members of the team
+Lead the delivery of data quality reviews including data cleansing where required to ensure integrity and quality
+Lead the delivery of data models, data storage models and data migration to manage data within the organization, for a small to medium-sized project
+Resolve escalated design and implementation issues with moderate to high complexity
+Analyze the latest industry trends such as cloud computing and distributed processing and beginning to infer risks and benefits of their use in business
+Provide technical expertise to maximize value from current applications, solutions, infrastructure and emerging technologies and seek to continuously improve internal processes
+Drive adherence to the relevant data engineering and data modelling processes, procedures and standards
+Develop relationships with other engineering groups to gain a strong understanding of products and services as well as key business processes and apply technical support engineering expertise to ensure solutions are properly managed and maintained
+Support data platforms, databases, and infrastructure in Azure Gov following a shift schedule with availability during afterhours.
+
+Skills And Attributes For Success
+
+Comprehensive understanding of Data and Database technologies with ability to troubleshoot underlying issues.
+Knowledge of business processes, products, and services, within agreed areas of expertise and is able to provide input and advice to key stakeholders, such as Product Owners, business sponsors and Service Delivery Managers
+Full stack knowledge of technologies in Azure Gov is a plus
+Ability to systematically break apart complex problems (written, verbal or numerical). Ability to analyze figures to solve a problem.
+Ability to be analytical and systematic whilst being open-minded and creative.
+Able to base decisions on facts rather than emotions, and always using logic.
+Ability to design an efficient way of processing high volumes of data where a group of transactions is collected over a period of time
+Ability to design and implement models, capabilities and solutions to manage data within the enterprise (structured and unstructured, data archiving principles, data warehousing, data sourcing, etc.). This includes the data models, storage requirements and migration of data from one system to another
+Ability to review (profile) a data set to establish its quality against a defined set of parameters and to highlight data where corrective action (cleansing) is required to remediate the data
+Ability to discover, integrate, and ingest all available data from the machines that produce it, as fast as it’s produced, in any format, and at any quality
+
+To qualify for the role, you must have
+Bachelor's Degree in Computer Science or related discipline or equivalent work experience
+5+ years Database Experience including administration and troubleshooting
+DB Administration and troubleshooting experience in a technology area such as Azure SQL MI, SSIS, Azure SQL PaaS, Azure Data Factory
+Working Knowledge of SQL Server Database configuration, support and administration tasks
+Microsoft SQL Server, Windows Service Bus, IIS, .NET, Cloud Development Platforms
+Excellent analytical and communication skills (verbal and written).
+Ability to effectively prioritize and execute tasks in a dynamic and high-pressure environment
+Ability to work in a team environment with in a high performing team
+Ability to obtain and maintain Top Secret security clearance level
+Flexibility to work weekends or afterhours as needed
+Beginning to intermediate experience with the following tools and technologies:
+Azure Data Catalogue / Purview
+Azure Cloud
+Databricks
+Power BI Dataflows
+Power Query
+Azure Cosmos
+Azure Monitor
+PowerShell
+Python
+R
+
+Ideally, you’ll also have
+Experience working in a diverse fast paced environment in collaboration with other technical teams.
+Willingness to work flexible hours, non-business hours, or other scenarios required by the flow of operations.
+Detail-oriented, well-organized with ability to translate & communicate complex and abstract issues.
+Experience in Installation, Administration and Troubleshooting of Data Technologies in Azure.
+Experience working Agile/Scrum environment preferred.
+Experience utilizing automated solutions with Azure Devops as the orchestrator of choice would be a plus.
+ITIL Foundation Certification and other technology certifications are very beneficial
+Certified Database Administrator
+Basic experience with the following tools and technologies:
+Amazon Web Services
+Azure ADLS Gen 2
+Azure Synapse
+Alteryx
+AWS DynamoDB
+Splunk experience
+SharePoint
+
+What We Look For
+
+A self-starter, independent-thinker, curious and creative person with ambition and passion
+History of continuous learning and continuous progression
+
+What We Offer
+
+We offer a comprehensive compensation and benefits package where you’ll be rewarded based on your performance and recognized for the value you bring to the business. The salary range for this job in most geographic locations in the US is $83,000 to $150,700. The salary range for New York City Metro Area, Washington State and California (excluding Sacramento) is $99,600 to $171,200. Individual salaries within those ranges are determined through a wide variety of factors including but not limited to education, experience, knowledge, skills and geography. In addition, our Total Rewards package includes medical and dental coverage, pension and 401(k) plans, and a wide range of paid time off options. Under our flexible vacation policy, you’ll decide how much vacation time you need based on your own personal circumstances. You’ll also be granted time off for designated EY Paid Holidays, Winter/Summer breaks, Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well-being.
+
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+The Exceptional EY Experience. It’s Yours To Build.
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+
+EY is an equal opportunity, affirmative action employer providing equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law.
+
+EY is committed to providing reasonable accommodation to individuals with disabilities. If you are a qualified individual with a disability and either need assistance applying online or need to request an accommodation during the interview process, please call 1-800-EY-HELP3, type Option 2 (HR-related inquiries) and then type Option 1 (HR Shared Services Center), which will route you to EY’s Talent Shared Services Team or email SSC Customer Support at ssc.customersupport@ey.com.
